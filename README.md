@@ -14,7 +14,7 @@ Visit the live website [My website](https://mahmoudwafdy.github.io/card-componen
 Find the source code in this [GitHub repository](https://github.com/MahmoudWafdy/card-component).
 
 ## Preview
-![website photo](./images/screen1.JPG) 
+![website photo](./images/screen1.jpg) 
 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/your-username/frontmeetor-challenge.git`
